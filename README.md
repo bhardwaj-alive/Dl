@@ -58,7 +58,7 @@ generatecustomthumbnail - Generate customer thumbnail
 generatescss - Get Screenshot of Telegram Media
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+####Also Visit 
+https://www.bhardwajji.ga
 
-#### LICENSE
-- GPLv3
+##### Priyanshu Bhardwaj Ji
