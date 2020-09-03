@@ -21,7 +21,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 def GetExpiryDate(chat_id):
-    expires_at = (str(chat_id), "BhaRdwajji ", "😎")
+    expires_at = (str(chat_id), "Pro  ", "When World will End..😎")
     return expires_at
 
 
