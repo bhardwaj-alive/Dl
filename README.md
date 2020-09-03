@@ -4,10 +4,6 @@
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 👉 check the 'branches' for all the features..!
 
-## Credits, and Thanks to
-
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
 ### Installation
 
