@@ -1,9 +1,7 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [AnyDLR_Bot](https://telegram.dog/AnyDLR_Bot)
 ---
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
-👉 check the 'branches' for all the features..!
-
+Robot For TeleGram
 
 ### Installation
 
@@ -58,7 +56,7 @@ generatecustomthumbnail - Generate customer thumbnail
 generatescss - Get Screenshot of Telegram Media
 ```
 
-####Also Visit 
+-Also Visit 
 https://www.bhardwajji.ga
 
 ##### Priyanshu Bhardwaj Ji
