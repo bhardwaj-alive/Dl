@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
-
+# (c) Priyanshh
 # the logging things
 import logging
 
@@ -22,7 +21,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 def GetExpiryDate(chat_id):
-    expires_at = (str(chat_id), "Source Cloned User", "1970.01.01.12.00.00")
+    expires_at = (str(chat_id), "BhaRdwajji ", "😎")
     return expires_at
 
 
